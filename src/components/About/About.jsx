@@ -27,7 +27,7 @@ const About = () => {
         
           <artice className="about_card">
             <MdOutlineSportsTennis className='about_icon' />
-            <h5>Extra Ciricular</h5>
+            <h5> Extracurricula</h5>
             <small>State level gold medalist in lawn tennis</small>
           </artice>
           
